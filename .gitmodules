@@ -1,0 +1,3 @@
+[submodule "Zoo"]
+	path = Zoo
+	url = https://github.com/kartoffelquadrat/Zoo.git
