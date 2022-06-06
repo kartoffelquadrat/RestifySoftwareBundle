@@ -1,3 +1,9 @@
 [submodule "Zoo"]
 	path = Zoo
 	url = https://github.com/kartoffelquadrat/Zoo.git
+[submodule "XoxInternals"]
+	path = XoxInternals
+	url = https://github.com/kartoffelquadrat/XoxInternals.git
+[submodule "BookStoreInternals"]
+	path = BookStoreInternals
+	url = https://github.com/kartoffelquadrat/BookStoreInternals.git
